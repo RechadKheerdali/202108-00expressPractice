@@ -31,7 +31,8 @@
     "node24": "nodemon ik24.js",
     "node25": "nodemon ik25.js",
     "node26": "nodemon ik26.js",
-    "node27": "nodemon ik27.js"
+    "node27": "nodemon ik27.js",
+    "node28": "nodemon ik28.js"
   },
   "author": "",
   "license": "ISC",

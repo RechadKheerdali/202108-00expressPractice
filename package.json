@@ -32,11 +32,14 @@
     "node25": "nodemon ik25.js",
     "node26": "nodemon ik26.js",
     "node27": "nodemon ik27.js",
-    "node28": "nodemon ik28.js"
+    "node28": "nodemon ik28.js",
+    "node29": "nodemon ik29.js",
+    "node30": "nodemon ik30.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "base64url": "^3.0.1",
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
